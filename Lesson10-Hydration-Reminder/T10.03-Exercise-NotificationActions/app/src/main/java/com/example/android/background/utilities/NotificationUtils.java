@@ -146,7 +146,7 @@ public class NotificationUtils {
                 "I did it!",
                 incrementWaterCountPendingIntent
         );
-        
+
         //      COMPLETED (16) Return the action
         return drinkWaterAction;
     }
